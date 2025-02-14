@@ -2,12 +2,14 @@
 
 ## Installation (HTTPS)
 
-``` git pull https://github.com/Squashedapricot/alacritty_config.git ~/.config/alacrity
+``` 
+git clone https://github.com/Squashedapricot/alacritty_config.git ~/.config/alacrity
 ```
 
 ## Installation (SSH)
 
-``` git pull git@github.com:Squashedapricot/alacritty_config.git ~/.config/alacritty
+``` 
+git clone git@github.com:Squashedapricot/alacritty_config.git ~/.config/alacritty
 ```
 
 ## Themes
@@ -15,12 +17,15 @@
 
 ## Quick Install for themes
 
-``` git clone https://github.com/alacritty/alacritty-theme.git ~/.config/alacritty/themes
+``` 
+git clone https://github.com/alacritty/alacritty-theme.git ~/.config/alacritty/themes
 ```
 
 ## Font 
 ### For Arch Users
-``` pacman -S ttf-jetbrains-mono-nerd ```
+``` 
+pacman -S ttf-jetbrains-mono-nerd 
+```
 
 #### For Other 
 Download from the Official Website [here](https://www.nerdfonts.com/font-downloads)
