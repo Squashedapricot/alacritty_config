@@ -3,7 +3,7 @@
 ## Installation (HTTPS)
 
 ``` 
-git clone https://github.com/Squashedapricot/alacritty_config.git ~/.config/alacrity
+git clone https://github.com/Squashedapricot/alacritty_config.git ~/.config/alacritty
 ```
 
 ## Installation (SSH)
